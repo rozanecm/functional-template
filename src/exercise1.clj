@@ -4,7 +4,3 @@
   "Calculates 10 minus the result of multiplying the input by 2."
   [x]
   (- 10 (* 2 x)))
-
-
-
-
